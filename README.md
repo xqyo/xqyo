@@ -12,12 +12,12 @@
 </p>
 
 ### Languages
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/xqyo)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/xqyo)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/xqyo)
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/xqyo)
-![C#]([https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/xqyo)
-![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/xqyo)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/xqyo)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/xqyo)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/xqyo)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/xqyo)
+[![C#]([https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/xqyo)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/xqyo)
 
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/xqyo)
