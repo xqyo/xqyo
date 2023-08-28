@@ -1,10 +1,7 @@
 <p align="center">
     <b>Welcome to my github.</b><br><br>
     <i>
-        I'm xqyo.<br>
-        Currently creating a couple projects and doing hosting services.<br>
-        I currently don't post many projects publicly but im working on a lot.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        I'm xqyo.
     </i><br>
     <a href="http://xqyo.rf.gd/">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
