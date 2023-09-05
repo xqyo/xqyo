@@ -2,10 +2,12 @@
     <b>welcome</b><br><br>
     <i>
         just random stuff
-    </i><br>
+    </i><br><i></i>
+    <!--
     <a href="http://xqyo.rf.gd/">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
+    -->
 </p>
 
 ### Languages
