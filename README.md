@@ -1,7 +1,7 @@
 <p align="center">
-    <b>Welcome to my github.</b><br><br>
+    <b>welcome</b><br><br>
     <i>
-        I'm xqyo.
+        just random stuff
     </i><br>
     <a href="http://xqyo.rf.gd/">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
